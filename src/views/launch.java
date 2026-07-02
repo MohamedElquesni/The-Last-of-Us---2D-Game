@@ -11,7 +11,6 @@ import model.characters.Medic;
 import engine.Game;
 import javafx.application.Application;
 import javafx.geometry.Insets;
-import javafx.*;
 import javafx.scene.Group;
 import javafx.scene.Node;
 import javafx.scene.Scene;
