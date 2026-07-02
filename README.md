@@ -25,6 +25,6 @@ Needs JavaFX on the classpath (built as an Eclipse project, `.classpath` and `.p
 
 ## Screenshots
 
-![Hero selection](SelectHeroes.jpg)
-![Main map](MainGameMap.jpg)
-![Attack and cure](Fighter.jpg)
+![Hero selection](Screenshots/HeroSelect.png)
+
+Character art (Joel, Ellie, etc.) is official The Last of Us artwork used as portraits, not original art.
